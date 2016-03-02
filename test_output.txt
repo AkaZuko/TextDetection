@@ -1,0 +1,73 @@
+Initializing neural network with 5 layers, 2500 inputs and 63 outputs.
+  - Convl: Rectifier  Output: (48, 48)   Channels: 12
+  - Convl: Rectifier  Output: (46, 46)   Channels: 8
+  - Convl: Rectifier  Output: (44, 44)   Channels: 4
+  - Dense: Rectifier  Units:  64  
+  - Dense: Softmax    Units:  63  
+Reloading parameters for 5 layer weights and biases.
+
+0 957
+1 936
+2 1015
+3 1016
+4 1014
+5 1014
+6 1015
+7 1015
+8 1012
+9 1015
+10 981
+11 992
+12 961
+13 1002
+14 997
+15 984
+16 1010
+17 1016
+18 863
+19 1005
+20 1014
+21 960
+22 986
+23 996
+24 541
+25 1008
+26 1012
+27 1002
+28 556
+29 1010
+30 949
+31 905
+32 944
+33 832
+34 1000
+35 948
+36 1007
+37 992
+38 907
+39 989
+40 992
+41 999
+42 976
+43 971
+44 998
+45 976
+46 1012
+47 998
+48 1003
+49 997
+50 868
+51 975
+52 976
+53 986
+54 1010
+55 958
+56 994
+57 871
+58 976
+59 957
+60 983
+61 849
+62 2088
+--------------------
+Overall Accuracy :  0.949462200369
