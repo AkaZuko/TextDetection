@@ -2,6 +2,9 @@ from skimage.viewer import ImageViewer
 from skimage import io, draw
 import numpy as np
 import sys
+from test_image import Text_classification
+
+txt = Text_classification()
 
 def window(image_path):
 	img = io.imread(image_path)
